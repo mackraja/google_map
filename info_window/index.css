@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+#map {
+	border: 4px solid black;
+	height: 400px;
+	width: 400px;
+}
